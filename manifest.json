@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Netflix Adblock",
+  "version": "1.0.0",
+
+  "description": "Automatically decline to view the ads which Netflix plays during closing credits.",
+
+  "developer": {
+    "name": "Nick Barry"
+  },
+
+  "homepage_url": "https://github.com/itsnickbarry/netflix-adblock",
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.netflix.com/*"],
+      "js": ["netflix_adblock.js"]
+    }
+  ]
+}
