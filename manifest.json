@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Netflix Adblock",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "description": "Automatically decline to view the ads which Netflix plays during closing credits.",
 
