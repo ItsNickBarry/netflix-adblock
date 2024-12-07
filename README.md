@@ -1,5 +1,8 @@
 # Netflix Adblock
 
+> [!WARNING]
+> This plugin was built to function with a previous version of the Netflix website, but is no longer maintained.  There is nothing good to watch on Netflix anyway.
+
 Netflix does not understand art.  Netflix plays ads during the closing credits of its own films.  This Firefox browser extension might prevent Netflix from ruining art.
 
 Install the extension [here](https://addons.mozilla.org/addon/netflix-adblock/).
